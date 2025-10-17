@@ -8,19 +8,19 @@ function Home({ onSelectDifficulty }) {
     {
       label: 'Genin (Easy)',
       desc: 'Fewer cards, slower shuffle, beginner-friendly',
-      value: 6,
+      value: 10,
       imgSrc: geninImg,
     },
     {
       label: 'Chunin (Medium)',
       desc: 'Moderate number of cards, balanced challenge',
-      value: 10,
+      value: 15,
       imgSrc: chuninImg,
     },
     {
       label: 'Jonin (Hard)',
       desc: 'Many cards, fast shuffle, for true memory masters',
-      value: 15,
+      value: 20,
       imgSrc: joninImg,
     },
   ];
