@@ -4,8 +4,8 @@
 @font-face {
   font-family: 'Outfit';
   src:
-    url('../assets/Outfit-VariableFont_wght.woff2') format('woff2'),
-    url('../assets/Outfit-VariableFont_wght.woff') format('woff');
+    url('../assets/fonts/Outfit-VariableFont_wght.woff2') format('woff2'),
+    url('../assets/fonts/Outfit-VariableFont_wght.woff') format('woff');
   font-weight: 100 900;
   font-style: normal;
   font-display: swap;
@@ -15,8 +15,8 @@
 @font-face {
   font-family: 'Naruto';
   src:
-    url('../assets/njnaruto.woff2') format('woff2'),
-    url('../assets/njnaruto.woff') format('woff');
+    url('../assets/fonts/njnaruto.woff2') format('woff2'),
+    url('../assets/fonts/njnaruto.woff') format('woff');
   font-style: normal;
   font-display: swap;
 }
